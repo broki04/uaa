@@ -1,0 +1,41 @@
+.menu {
+    background-color: #ffa0ae;
+    border: 3px solid wheat;
+    width: 250px;
+    height: 500px;
+    float: left;
+}
+
+.main {
+    background-color: #ffa0ae;
+    border: 3px solid wheat;
+    width: 750px;
+    height: 500px;
+    float: left;
+}
+
+.banner {
+    border-bottom: 3px solid wheat;
+    text-align: center;
+    font-size: 120%;
+}
+
+.wrapper {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+}
+
+a:hover { color: yellow; }
+a { text-decoration: none; }
+
+.menuText {
+    font-size: 20px; 
+    font-family: Arial; 
+    font-weight: bold;
+}
+
+.pageText {
+    font-family: Arial; 
+    font-size: 15;
+}
